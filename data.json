@@ -1,0 +1,20 @@
+{
+    "cards": [
+        {
+            "title": "Total Users",
+            "value": 1240
+        },
+        {
+            "title": "Active Sessions",
+            "value": 312
+        },
+        {
+            "title": "Monthly Revenue",
+            "value": "₹18,450"
+        },
+        {
+            "title": "Open Tickets",
+            "value": 27
+        }
+    ]
+}
